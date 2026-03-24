@@ -4,7 +4,6 @@
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
-
 **	Mathematical Calculation**
 
 Tan θ/2 =a/2L 
@@ -12,14 +11,12 @@ L=a
 ^2/8 δ  
 2 tan-1a
 2L
-
 where, θ= flare angle (θ E for E plane, θ H for H plane).a= aperture (a E for E plane, a H for H plane)
 L=horn length
-
 **δ=0.17λ,L=160 mm.**
 
 sing
- 
+
 U a	L  2 we get a=110 mm for both E and H plane.
 8
 
